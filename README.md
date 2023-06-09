@@ -14,7 +14,11 @@ http://localhost/import-export-databases
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/google-recaptcha-php/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/import-export-databases/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/import-export-databases/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/import-export-databases/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/import-export-databases/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/import-export-databases/main/Screenshots/Output-05.png)
 
 
 ## 🔗 www.codehafeez.com
